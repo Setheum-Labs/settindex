@@ -1,2 +1,2 @@
-# halal-swap
-Halal Swap
+# SettinDex - SettInDEX
+Setheum Built-In-DEX
